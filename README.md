@@ -1,5 +1,5 @@
-# Blink-Action
-## Have an EEG headset (I used the Muse 2 Headband)
+# 👁️ Blink-Action
+## Have an EEG headset (I used the Muse 2 Headband) 🧠
 
 ### Software Needed:
 
